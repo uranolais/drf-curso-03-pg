@@ -2,7 +2,7 @@
 
 # API ESCOLA
 
-Este é o repositório para o projeto de API de uma Escola feito em Django REST Framework. Para saber mais informações, acesse o [Trello do Projeto](https://trello.com/b/UDG9sitg/django-rest-framework-escola-curso-02).
+Este é o repositório para o projeto de API de uma Escola feito em Django REST Framework. Para saber mais informações, acesse o [Trello do Projeto](https://trello.com/b/MUyjNhdF/django-rest-framework-escola-curso-03).
 
 ## Configuração do Ambiente Virtual (venv)
 
